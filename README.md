@@ -14,6 +14,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0033CC?style=for-the-badge&logo=CSS3&logoColor=000000)
 ![SASS](https://img.shields.io/badge/-SASS-FF00FF?style=for-the-badge&logo=SASS&logoColor=000000)
 
+
+
+### Contacts
 <div id="badges">
   <a href="https://www.linkedin.com/in/svetailo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
