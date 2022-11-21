@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 
 ## I am a front-end developer with experience in creating SPA using JavaScript, TypeScript, React, Redux, HTML, CSS, SASS
