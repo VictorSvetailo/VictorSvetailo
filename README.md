@@ -32,7 +32,7 @@ mailbox: Reach me out!
 <br />
 
 #### Bizness
-- paperclip: [My Resume/CV](https://github.com/VictorSvetailo/MyResume-CV/blob/main/SvetailoResumeCV.pdf)
+- Resume: [My Resume/CV](https://github.com/VictorSvetailo/MyResume-CV/blob/main/SvetailoResumeCV.pdf)
 - email: victorsvetailo@gmail.com
 
 
