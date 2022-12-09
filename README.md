@@ -24,10 +24,8 @@
   <a href="https://twitter.com/VictorSvetailo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a   style={width: '500px', background: 'black',
-                                            height: '500px',
-                                        } href="https://svetailo.com">
-   
+    <a href="https://svetailo.com">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="My Portfolio"/>
   </a>
 </div>
 
