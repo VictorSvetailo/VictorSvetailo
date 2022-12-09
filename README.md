@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://svetailo.com">
-      <img src="https://img.shields.io/badge/VS-My%20Portfolio-ff69d4" alt="My Portfolio"/>
+      <img src="https://img.shields.io/badge/VS-My%20Portfolio-ff69d4?style=for-the-badge" alt="My Portfolio"/>
   </a>
 </div>
 
