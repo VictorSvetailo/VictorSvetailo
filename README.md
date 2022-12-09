@@ -12,7 +12,7 @@ mailbox: Reach me out!
 
 <!-- TODO: Add last video link -->
 
-- 🔭 - I’m currently working at @KodKodych
+- 🔭 - I’m currently working at englishshow.ru
 - 📫 - How to reach me: victorsvetailo@gmail.com.
 - ⚡ - Fun fact: I prefer live communication with people.
 
