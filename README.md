@@ -1,45 +1,46 @@
-### Hello everyone 👋
+## Hi I'm Victor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+I'm Victor Svetailo a Front-End Web Developer. I Spend most of time coding projects. 
+
+mailbox: Reach me out!
+
+[![MyPortfolioBadge](https://img.shields.io/badge/-MyPortfolio-000?style=flat&labelColor=000&logo=CodeSandbox&logoColor=white&link=https://svetailo.com)](https://svetailo.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/svetailo)](https://t.me/svetailo)
+[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VictorSvetailo)](https://twitter.com/VictorSvetailo) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svetailo/) 
+[![Mail Badge](https://img.shields.io/badge/-victorsvetailo@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victorsvetailo@gmail.com)
+
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently working at @KodKodych
+- 📫 How to reach me: victorsvetailo@gmail.com.
+- ⚡ - Fun fact: I prefer live communication with people.
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![React Badge](https://img.shields.io/badge/-REDUX-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#) [![React Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
+[![React Badge](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) 
+
+<br />
+<br />
+
+#### Bizness
+- paperclip: [My Resume/CV](https://github.com/VictorSvetailo/MyResume-CV/blob/main/SvetailoResumeCV.pdf)
+- email: victorsvetailo@gmail.com
 
 
-## I am a front-end developer with experience in creating SPA using JavaScript, TypeScript, React, Redux, HTML, CSS, SASS
+#### Profile Visits 
+[visitors](https://svetailo.com)
 
-### Languages and tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=47C5FB)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=47C5FB)
-![GIT](https://img.shields.io/badge/-GIT-FF6600?style=for-the-badge&logo=GIT&logoColor=000000)
-![HTML5](https://img.shields.io/badge/-HTML5-FF6600?style=for-the-badge&logo=HTML5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/-CSS3-0033CC?style=for-the-badge&logo=CSS3&logoColor=000000)
-![SASS](https://img.shields.io/badge/-SASS-FF00FF?style=for-the-badge&logo=SASS&logoColor=000000)
-
-
-
-### Contacts
-<div id="badges">
-      <a href="https://svetailo.com">
-      <img src="https://img.shields.io/badge/VS-My%20Portfolio-ff69d4?style=for-the-badge" alt="My Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/svetailo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/VictorSvetailo">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<!--
-**VictorSvetailo/VictorSvetailo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <details>
+<summary>
+  More stuff about me
+</summary>
+ -->
