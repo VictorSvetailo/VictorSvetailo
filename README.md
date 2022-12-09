@@ -29,7 +29,6 @@ mailbox: Reach me out!
 [![React Badge](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) 
 
 <br />
-<br />
 
 #### Bizness
 - Resume: [My Resume/CV](https://github.com/VictorSvetailo/MyResume-CV/blob/main/SvetailoResumeCV.pdf)
