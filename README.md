@@ -37,7 +37,7 @@ mailbox: Reach me out!
 
 
 #### Profile Visits 
-[visitors](https://svetailo.com)
+[My website](https://svetailo.com)
 
 <!-- <details>
 <summary>
