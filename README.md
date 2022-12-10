@@ -30,7 +30,7 @@ mailbox: Reach me out!
 
 <br />
 
-#### Bizness
+#### ---
 - resume: [My Resume/CV](https://github.com/VictorSvetailo/MyResume-CV/blob/main/SvetailoResumeCV.pdf)
 - email: victorsvetailo@gmail.com
 
