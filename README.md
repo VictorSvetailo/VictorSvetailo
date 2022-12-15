@@ -1,7 +1,8 @@
 ## Hi I'm Victor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <b><i>I'm Victor Svetailo a Front-End Web Developer. I Spend most of time coding projects.<i/><b/> 
-
+<b><i>MERN stack<i/><b/> 
+  
 mailbox: Reach me out!
 
 [![MyPortfolioBadge](https://img.shields.io/badge/-MyPortfolio-000?style=flat&labelColor=000&logo=CodeSandbox&logoColor=white&link=https://svetailo.com)](https://svetailo.com/)
@@ -10,7 +11,7 @@ mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svetailo/) 
 [![Mail Badge](https://img.shields.io/badge/-victorsvetailo@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victorsvetailo@gmail.com)
 
-<!-- TODO: Add last video link -->
+<!-- TODO -->
 
 - 🔭 - I’m currently working at englishshow.ru
 - 📫 - How to reach me: victorsvetailo@gmail.com.
